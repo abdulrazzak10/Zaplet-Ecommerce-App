@@ -122,12 +122,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Supabase for the backend infrastructure
 - All contributors who have helped shape this project
 
-## 📞 Contact
-
-For any queries or support, please reach out to:
-- GitHub: [@abdulrazzak10](https://github.com/abdulrazzak10)
-- Email: [Your Email]
-
 ---
 
 ⭐️ If you like this project, please give it a star on GitHub!
