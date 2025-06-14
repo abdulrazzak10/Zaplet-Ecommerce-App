@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background circle -->
+  <circle cx="400" cy="300" r="240" fill="#fff8e1" />
+  
+  <!-- Delivery truck body -->
+  <rect x="200" y="300" width="250" height="110" rx="15" fill="#FF9800" />
+  <rect x="120" y="320" width="80" height="90" rx="10" fill="#F57C00" />
+  <path d="M450 300 L500 300 L500 370 L450 370 Z" fill="#E65100" />
+  
+  <!-- Truck windows -->
+  <rect x="140" y="330" width="50" height="40" rx="5" fill="#90CAF9" />
+  
+  <!-- Truck bumper -->
+  <rect x="110" y="380" width="10" height="30" rx="5" fill="#455A64" />
+  
+  <!-- Truck front grill -->
+  <rect x="120" y="360" width="20" height="10" rx="2" fill="#607D8B" />
+  <rect x="120" y="350" width="10" height="5" rx="2" fill="#CFD8DC" />
+  
+  <!-- Truck rear box details -->
+  <rect x="230" y="330" width="40" height="40" fill="#FFECB3" stroke="#FFA000" stroke-width="2" />
+  <rect x="290" y="330" width="40" height="40" fill="#FFECB3" stroke="#FFA000" stroke-width="2" />
+  <rect x="350" y="330" width="40" height="40" fill="#FFECB3" stroke="#FFA000" stroke-width="2" />
+  
+  <!-- Truck wheels -->
+  <circle cx="180" cy="430" r="30" fill="#546E7A" />
+  <circle cx="180" cy="430" r="15" fill="#90A4AE" />
+  <circle cx="180" cy="430" r="5" fill="#ECEFF1" />
+  <circle cx="400" cy="430" r="30" fill="#546E7A" />
+  <circle cx="400" cy="430" r="15" fill="#90A4AE" />
+  <circle cx="400" cy="430" r="5" fill="#ECEFF1" />
+  
+  <!-- Delivery box -->
+  <rect x="520" y="380" width="100" height="80" fill="#8D6E63" />
+  <rect x="520" y="380" width="100" height="20" fill="#5D4037" />
+  <path d="M520 380 L570 350 L620 350 L570 380 Z" fill="#795548" />
+  <path d="M620 380 L620 350 L670 380 Z" fill="#6D4C41" />
+  <rect x="550" y="410" width="40" height="20" fill="#A1887F" />
+  
+  <!-- Speed lines for fast delivery -->
+  <path d="M60 330 L100 330" stroke="#4DB6AC" stroke-width="5" stroke-linecap="round" />
+  <path d="M40 360 L90 360" stroke="#26A69A" stroke-width="5" stroke-linecap="round" />
+  <path d="M50 390 L100 390" stroke="#00897B" stroke-width="5" stroke-linecap="round" />
+  
+  <!-- Floating delivery icons -->
+  <circle cx="250" cy="200" r="30" fill="#81D4FA" />
+  <path d="M235 200 L265 200 M250 185 L250 215" stroke="#0288D1" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="350" cy="210" r="35" fill="#C5E1A5" />
+  <path d="M330 210 L370 210" stroke="#558B2F" stroke-width="4" stroke-linecap="round" />
+  <path d="M340 195 L360 215 L340 225" fill="none" stroke="#558B2F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <circle cx="450" cy="220" r="25" fill="#FFE082" />
+  <polygon points="450,205 440,225 460,225" fill="#FF8F00" />
+  
+  <circle cx="550" cy="240" r="28" fill="#FFCC80" />
+  <rect x="540" y="230" width="20" height="20" rx="2" fill="#EF6C00" />
+  <path d="M535 245 L565 245" stroke="#F57C00" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Package icons -->
+  <rect x="590" y="320" width="25" height="25" rx="2" fill="#A5D6A7" />
+  <path d="M590 325 L615 325" stroke="#2E7D32" stroke-width="2" />
+  
+  <rect x="550" y="280" width="20" height="20" rx="2" fill="#FFF59D" />
+  <path d="M550 285 L570 285" stroke="#F57F17" stroke-width="2" />
+  
+  <!-- Clouds -->
+  <ellipse cx="620" cy="180" rx="40" ry="20" fill="#E3F2FD" />
+  <ellipse cx="580" cy="170" rx="30" ry="15" fill="#E3F2FD" />
+  <ellipse cx="650" cy="170" rx="25" ry="10" fill="#E3F2FD" />
+  
+  <ellipse cx="180" cy="150" rx="35" ry="18" fill="#E3F2FD" />
+  <ellipse cx="150" cy="140" rx="25" ry="12" fill="#E3F2FD" />
+  <ellipse cx="210" cy="140" rx="20" ry="10" fill="#E3F2FD" />
+</svg> 
